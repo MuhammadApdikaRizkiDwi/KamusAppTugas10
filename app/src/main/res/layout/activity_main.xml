@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="English Indonesia Dictionary"
+        android:text="Kamus English Indonesia"
         android:textStyle="bold"
         android:textSize="18sp" />
 
